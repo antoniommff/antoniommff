@@ -3,9 +3,24 @@
 </h1>
 
 
+
 <br>
 
-<h2 align="left">👨‍💻 | About me</h2>
+<h2 align="left">👨‍💻 | About me</h2
+
+I am a **Software Engineering student at he University of Seville**. I am currently on my 3rd year of studies and I am always researching about the new stuff surrounding us. Here you may find a brief summary of my coding skills as well as my other contact channels.
+
+I highly recommend checking my [Personal Page](http://bento.me/antoniommff) where you can explore a more artistic face of Antonio. I am a **passionate of cinnema, art, and kind of a photographer myself...**
+
+
+<br>
+
+<h2 align="left">📑 | Latest project</h2>
+
+<a href="https://github.com/antoniommff/the-social-tree">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniommff&repo=the-social-tree&theme=dark" alt="GitHub Stats" />
+</a>
+
 
 
 <br>
@@ -45,18 +60,15 @@
 </table>
 
 
+
 <br>
 
 <h2 align="left">☎️ | Contact</h2>
 
-<p align="center">
-  <a> http://bento.me/antoniommff</a>
+Take a momment to look at my [Personal Page](http://bento.me/antoniommff) to explore my social media, where I usually post more artistic stuff.
+
+For direct contact, you can reach me out though: <a href="https://www.linkedin.com/in/antoniommff/"><img height="20" src="https://skillicons.dev/icons?i=linkedin"/></a> or <a href="mailto:antoniommff@gmail.com"><img height="20" src="https://skillicons.dev/icons?i=gmail"/></a>
   
-  <a href="https://www.linkedin.com/in/antoniommff/"><img height="40" src="https://skillicons.dev/icons?i=linkedin"/></a>
-  
-  <a href="mailto:antoniommff@gmail.com"><img height="40" src="https://skillicons.dev/icons?i=gmail"/></a>
-  
-</p>
 
 
 <br>
