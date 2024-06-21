@@ -1,21 +1,32 @@
 <h1 align="center">
   Hello there! I'm Antonio Macías <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
 </h1>
+<p align="center" style="color: gray;">¡Hola a todos! Soy Antonio Macías</p>
 
 
 
 <br>
 
-<h2 align="left">👨‍💻 | About me</h2
+<h2 align="left">👨‍💻 | About me - <span style="font-size: smaller;">Sobre mi</span></h2
 
-I am a **Software Engineering student at he University of Seville**. I am currently on my 3rd year of studies and I am always researching about the new stuff surrounding us. Here you may find a brief summary of my coding skills as well as my other contact channels.
+[EN] I am a **Software Engineering student at the University of Seville**. I am currently on my 3rd year of studies and I am always researching about the new stuff surrounding us. Here you may find a brief summary of my coding skills as well as my contact channels.
 
-I highly recommend checking my [Personal Page](http://bento.me/antoniommff) where you can explore a more artistic face of Antonio. I am a **passionate of cinnema, art, and kind of a photographer myself...**
+I highly recommend checking my [Personal Page](http://bento.me/antoniommff) where you can explore my most artistic side. I am a **passionate of cinemma, art, and I am kind of a photographer myself...**
+
+<br>
+
+[ES] Actualmente soy **estudiante de tercer año de Ingeniería de Software en la Universidad de Sevilla**. Siempre estoy investigando y leyendo sobre las cosas nuevas que nos rodean. Aquí puedes encontrar un breve resumen de mis habilidades, así como de mis canales de contacto.
+
+Os recomiendo echar un ojo a mi [Página Personal](http://bento.me/antoniommff) donde podréis explorar mi cara más artística. Soy un **apasionado del cine, el arte y un fotógrafo en mi tiempo libre...**
+
+<div align="center">
+  ![social_media](social_media.png)
+</div>
 
 
 <br>
 
-<h2 align="left">📑 | Latest project</h2>
+<h2 align="left">📑 | Latest project - <span style="font-size: smaller;">Últimos proyectos</span></h2>
 
 <a href="https://github.com/antoniommff/the-social-tree">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniommff&repo=the-social-tree&theme=dark" alt="GitHub Stats" />
@@ -25,7 +36,7 @@ I highly recommend checking my [Personal Page](http://bento.me/antoniommff) wher
 
 <br>
 
-<h2 align="left">🛠️ | My skills</h2>
+<h2 align="left">🛠️ | My skills - <span style="font-size: smaller;">Mis habilidades</span></h2>
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">AI tools</td>
@@ -63,11 +74,15 @@ I highly recommend checking my [Personal Page](http://bento.me/antoniommff) wher
 
 <br>
 
-<h2 align="left">☎️ | Contact</h2>
+<h2 align="left">☎️ | Contact - <span style="font-size: smaller;">Contacto</span></h2>
 
-Take a momment to look at my [Personal Page](http://bento.me/antoniommff) to explore my social media, where I usually post more artistic stuff.
-
+[EN] Take a momment to look at my [Personal Page](http://bento.me/antoniommff) to explore my social media, where I usually post more artistic stuff.
 For direct contact, you can reach me out though: <a href="https://www.linkedin.com/in/antoniommff/"><img height="20" src="https://skillicons.dev/icons?i=linkedin"/></a> or <a href="mailto:antoniommff@gmail.com"><img height="20" src="https://skillicons.dev/icons?i=gmail"/></a>
+
+<br>
+
+[ES] Tómate un momento para echar un vistazo a mi [Página personal](http://bento.me/antoniommff) para explorar mis redes sociales, donde normalmente publico cosas más artísticas.
+Para un contactarme directamente:  <a href="https://www.linkedin.com/in/antoniommff/"><img height="20" src="https://skillicons.dev/icons?i=linkedin"/></a> o <a href="mailto:antoniommff@gmail.com"><img height="20" src="https://skillicons.dev/icons?i=gmail"/></a>
   
 
 
