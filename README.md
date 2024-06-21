@@ -19,9 +19,6 @@ I highly recommend checking my [Personal Page](http://bento.me/antoniommff) wher
 
 Os recomiendo echar un ojo a mi [Página Personal](http://bento.me/antoniommff) donde podréis explorar mi cara más artística. Soy un **apasionado del cine, el arte y un fotógrafo en mi tiempo libre...**
 
-<div align="center">
-  ![social_media](social_media.png)
-</div>
 
 
 <br>
