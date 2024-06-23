@@ -47,11 +47,11 @@ Os recomiendo echar un ojo a mi [Página Personal](http://bento.me/antoniommff) 
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=java,spring,nodejs,react"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=java,spring,react"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=react,html,css,js"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=html,css,js,nodejs"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Math</td>
