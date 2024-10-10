@@ -47,7 +47,7 @@ Os recomiendo echar un ojo a mi [Página Personal](http://bento.me/antoniommff) 
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=java,spring,nodejs"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=java,spring,nodejs,django,postman"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend</td>
@@ -59,10 +59,10 @@ Os recomiendo echar un ojo a mi [Página Personal](http://bento.me/antoniommff) 
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,mongodb"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">IDES and versioning</td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Versioning and deployment</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=vscode,eclipse,idea,git,github"/></td>
     </tr>
 </table>
