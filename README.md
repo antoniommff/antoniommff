@@ -9,13 +9,13 @@
 
 <h2 align="left">👨‍💻 | About me - <span style="font-size: smaller;">Sobre mi</span></h2
 
-[EN] I am a **Software Engineering student at the University of Seville**. I am currently on my 3rd year of studies and I am always researching about the new stuff surrounding us. Here you may find a brief summary of my coding skills as well as my contact channels.
+[EN] I am currently a **fourth-year Software Engineering student at the University of Seville**. My main goal is to work on and continue advancing in the field of Artificial Intelligence. I am also trained to work in data science, application development and design, and software architecture. I am constantly researching and reading about new developments around us.
 
 I highly recommend checking my [Personal Page](http://bento.me/antoniommff) where you can explore my most artistic side. I am a **passionate of cinemma, art, and I am kind of a photographer myself...**
 
 <br>
 
-[ES] Actualmente soy **estudiante de tercer año de Ingeniería de Software en la Universidad de Sevilla**. Siempre estoy investigando y leyendo sobre las cosas nuevas que nos rodean. Aquí puedes encontrar un breve resumen de mis habilidades, así como de mis canales de contacto.
+[ES] Actualmente soy **estudiante de cuarto curso de Ingeniería de Software en la Universidad de Sevilla**. Mi principal objetivo es dedicarme y seguir formándome en Inteligencia Artificial. También estoy formado para trabajar en  trabajar ciencia de datos, desarrollo y diseño de aplicaciones, arquitectura software. Siempre estoy investigando y leyendo sobre las cosas nuevas que nos rodean. 
 
 Os recomiendo echar un ojo a mi [Página Personal](http://bento.me/antoniommff) donde podréis explorar mi cara más artística. Soy un **apasionado del cine, el arte y un fotógrafo en mi tiempo libre...**
 
