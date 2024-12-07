@@ -25,13 +25,18 @@ Os recomiendo echar un ojo a mi [Página Personal](http://bento.me/antoniommff) 
 
 <h2 align="left">📑 | Latest project - <span style="font-size: smaller;">Últimos proyectos</span></h2>
 
-<a href="https://github.com/antoniommff/the-social-tree">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniommff&repo=the-social-tree&theme=dark" alt="GitHub Stats" />
-</a>
-
+<div style="display: flex; gap: 10px; justify-content: center; align-items: center;">
+  <a href="https://github.com/antoniommff/the-social-tree">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pueblista-PGPI&repo=pueblista-pgpi&theme=dark" alt="Pueblista" />
+  </a>
+  <a href="https://github.com/Pueblista-PGPI/pueblista-pgpi">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniommff&repo=the-social-tree&theme=dark" alt="The social Tree" />
+  </a>
+</div>
 
 
 <br>
+
 
 <h2 align="left">🛠️ | My skills - <span style="font-size: smaller;">Mis habilidades</span></h2>
 <table>
