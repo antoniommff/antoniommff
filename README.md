@@ -48,6 +48,8 @@ Os recomiendo echar un ojo a mi [Página Personal](http://bento.me/antoniommff) 
           <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white">
           <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white">
           <img src="https://img.shields.io/badge/scikit_learn-%23150458.svg?style=flat&logo=scikit-learn&logoColor=white">
+          <img src="https://img.shields.io/badge/pytorch-150458.svg?style=flat&logo=pytorch&logoColor=white">
+          <img src="https://img.shields.io/badge/yolo-150458.svg?style=flat&logo=yolo&logoColor=white">
       </td>
     </tr>
     <tr>
@@ -56,7 +58,10 @@ Os recomiendo echar un ojo a mi [Página Personal](http://bento.me/antoniommff) 
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=react,html,css,js"/></td>
+        <td>
+          <img height="40" src="https://skillicons.dev/icons?i=react,html,css,js,ts"/>
+          <img height="40" src="https://skillicons.dev/icons?i=nextjs"/>
+        </td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Math</td>
@@ -68,7 +73,7 @@ Os recomiendo echar un ojo a mi [Página Personal](http://bento.me/antoniommff) 
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Versioning and deployment</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,eclipse,idea,git,github"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,eclipse,idea,git,github,bitbucket"/></td>
     </tr>
 </table>
 
