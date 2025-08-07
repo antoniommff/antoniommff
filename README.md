@@ -21,6 +21,8 @@
 
 <div id="english">
 
+<img src="./assets/banner.png" alt="Banner" width="600"/>
+
 <h2 align="left">👨‍💻 | About me</h2>
 
 Software Engineering graduate from the University of Seville, specialising in software architecture, artificial intelligence, and project management. I hold distinctions in key subjects such as Software Architecture and Integration, Professional Practice Engineering, and Configuration Management.
@@ -62,7 +64,7 @@ Outside of engineering, I am passionate about photography, videography, and cine
   <tr>
     <td align="center">
       <a href="https://github.com/antoniommff/an-index-of-ice-and-fire">
-        <img src="./assets/index-of-ice-and-fire.png" alt="An Index of Ice and Fire" width="300"/>
+        <img src="./assets/an-index-of-ice-and-fire.png" alt="An Index of Ice and Fire" width="300"/>
       </a>
       <br/>
       <a href="https://github.com/antoniommff/an-index-of-ice-and-fire">
@@ -82,7 +84,7 @@ Outside of engineering, I am passionate about photography, videography, and cine
   <tr>
     <td align="center" colspan="2">
       <a href="https://github.com/antoniommff/the-social-tree">
-        <img src="./assets/social-tree.png" alt="The Social Tree" width="300"/>
+        <img src="./assets/the-social-tree.png" alt="The Social Tree" width="300"/>
       </a>
       <br/>
       <a href="https://github.com/antoniommff/the-social-tree">
@@ -159,6 +161,8 @@ For direct contact, you can reach me out though: <a href="https://www.linkedin.c
 
 <div id="español">
 
+<img src="./assets/banner.png" alt="Banner" width="600"/>
+
 <h2 align="left">👨‍💻 | Sobre mi</h2
 
 Graduado en Ingeniería del Software por la Universidad de Sevilla, especializado en arquitectura de software, inteligencia artificial y gestión de proyectos. Con MH en asignaturas clave como Arquitectura e Integración de Sistemas Software, Ingeniería y Gestión de Configuración.
@@ -199,7 +203,7 @@ Fuera del ámbito de la ingeniería, me apasionan la fotografía, la videografí
   <tr>
     <td align="center">
       <a href="https://github.com/antoniommff/an-index-of-ice-and-fire">
-        <img src="./assets/index-of-ice-and-fire.png" alt="An Index of Ice and Fire" width="300"/>
+        <img src="./assets/an-index-of-ice-and-fire.png" alt="An Index of Ice and Fire" width="300"/>
       </a>
       <br/>
       <a href="https://github.com/antoniommff/an-index-of-ice-and-fire">
@@ -219,7 +223,7 @@ Fuera del ámbito de la ingeniería, me apasionan la fotografía, la videografí
   <tr>
     <td align="center" colspan="2">
       <a href="https://github.com/antoniommff/the-social-tree">
-        <img src="./assets/social-tree.png" alt="The Social Tree" width="300"/>
+        <img src="./assets/the-social-tree.png" alt="The Social Tree" width="300"/>
       </a>
       <br/>
       <a href="https://github.com/antoniommff/the-social-tree">
