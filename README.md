@@ -21,7 +21,7 @@
 
 <div id="english">
 
-<img src="./assets/banner.png" alt="Banner" width="600"/>
+<img src="./assets/banner.png" alt="Banner"/>
 
 <h2 align="left">👨‍💻 | About me</h2>
 
@@ -161,7 +161,7 @@ For direct contact, you can reach me out though: <a href="https://www.linkedin.c
 
 <div id="español">
 
-<img src="./assets/banner.png" alt="Banner" width="600"/>
+<img src="./assets/banner.png" alt="Banner"/>
 
 <h2 align="left">👨‍💻 | Sobre mi</h2
 
