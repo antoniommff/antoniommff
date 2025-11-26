@@ -8,14 +8,7 @@
 <!-- Language Switch -->
 [🇬🇧 English](#english) | [🇪🇸 Español](#español)</b>
 
-<p align="center">
-	<br>
-	<br>
-	<br>
-	<br>
-  <br>
-	<br>
-</p>
+<br>
 
 
 
@@ -27,7 +20,7 @@
 
 Software Engineering graduate from the University of Seville, specialising in software architecture, artificial intelligence, and project management. I hold distinctions in key subjects such as Software Architecture and Integration, Professional Practice Engineering, and Configuration Management.
 
-I am about to begin my professional journey as a Software Engineer at [ORDINALY SOFTWARE](https://ordinaly.netlify.app), a start-up focused on automating and optimising business processes through Artificial Intelligence, in collaboration with AVIVA PUBLICIDAD and PROINCA CONSULTORES. Alongside this, I will pursue the Master’s Degree in Computer Engineering while continuing to develop my expertise in AI, data science, and software design.
+I am about to begin my professional journey as a Software Engineer at [ORDINALY SOFTWARE](https://ordinaly.ai/en), a start-up focused on automating and optimising business processes through Artificial Intelligence, in collaboration with AVIVA PUBLICIDAD and PROINCA CONSULTORES. Alongside this, I will pursue the Master’s Degree in Computer Engineering while continuing to develop my expertise in AI, data science, and software design.
 
 During my studies, I gained hands-on experience in both academic and industry projects. Notably, my Bachelor’s Thesis involved the design and implementation of [MAESTRE](https://github.com/MAESTRE-TFG/maestre), a web-based AI toolkit aimed at helping secondary school teachers create and manage educational content. I also led and coordinated the design and development of [Fisio Find](https://github.com/Proyecto-ISPP/FISIOFIND), a multi platform application for physiotherapist focused on giving a complete service (video calls, scheduling tools, payments and treatments).
 
@@ -43,43 +36,56 @@ Outside of engineering, I am passionate about photography, videography, and cine
 <table>
   <tr>
     <td align="center">
+      <a href="https://github.com/ordinaly-software/ordinaly">
+        <img src="./assets/ordinaly.png" alt="Ordinaly" width="300"/>
+      </a>
+      <br/>
+      <a href="https://github.com/ordinaly-software/ordinaly">
+        <img src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/pin/?username=ordinaly-software&repo=ordinaly&theme=dark" />
+      </a>
+    </td>
+    <td align="center">
       <a href="https://github.com/MAESTRE-TFG/maestre">
         <img src="./assets/maestre.png" alt="MAESTRE" width="300"/>
       </a>
       <br/>
       <a href="https://github.com/MAESTRE-TFG/maestre">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MAESTRE-TFG&repo=maestre&theme=dark" />
+        <img src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/pin/?username=MAESTRE-TFG&repo=maestre&theme=dark" />
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/Proyecto-ISPP/FISIOFIND">
         <img src="./assets/fisiofind.png" alt="FisioFind" width="300"/>
       </a>
       <br/>
       <a href="https://github.com/Proyecto-ISPP/FISIOFIND">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Proyecto-ISPP&repo=FISIOFIND&theme=dark" />
+        <img src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/pin/?username=Proyecto-ISPP&repo=FISIOFIND&theme=dark" />
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/antoniommff/an-index-of-ice-and-fire">
         <img src="./assets/an-index-of-ice-and-fire.png" alt="An Index of Ice and Fire" width="300"/>
       </a>
       <br/>
       <a href="https://github.com/antoniommff/an-index-of-ice-and-fire">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniommff&repo=an-index-of-ice-and-fire&theme=dark" />
+        <img src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/pin/?username=antoniommff&repo=an-index-of-ice-and-fire&theme=dark" />
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/Pueblista-PGPI/pueblista-pgpi">
         <img src="./assets/pueblista.png" alt="Pueblista" width="300"/>
       </a>
       <br/>
       <a href="https://github.com/Pueblista-PGPI/pueblista-pgpi">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pueblista-PGPI&repo=pueblista-pgpi&theme=dark" />
+        <img src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/pin/?username=Pueblista-PGPI&repo=pueblista-pgpi&theme=dark" />
       </a>
     </td>
+    <!-- Empty cell -->
+    <td></td>
   </tr>
   <tr>
     <td align="center" colspan="2">
@@ -88,7 +94,7 @@ Outside of engineering, I am passionate about photography, videography, and cine
       </a>
       <br/>
       <a href="https://github.com/antoniommff/the-social-tree">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniommff&repo=the-social-tree&theme=dark" />
+        <img src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/pin/?username=antoniommff&repo=the-social-tree&theme=dark" />
       </a>
     </td>
   </tr>
@@ -113,7 +119,7 @@ Outside of engineering, I am passionate about photography, videography, and cine
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=java,spring,nodejs,django,postman,arduino"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=java,python,spring,nodejs,django,postman,arduino"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend</td>
@@ -124,7 +130,7 @@ Outside of engineering, I am passionate about photography, videography, and cine
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Math</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=python,anaconda,matlab,octave,latex,md,r"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=anaconda,matlab,octave,latex,md,r"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database</td>
@@ -133,6 +139,14 @@ Outside of engineering, I am passionate about photography, videography, and cine
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Versioning and deployment</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=vscode,eclipse,idea,git,github,bitbucket"/></td>
+    </tr>
+	 <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Automation</td>
+        <td>
+			<img src="https://img.shields.io/badge/n8n-%23EA4E67.svg?style=flat&logo=n8n&logoColor=white"/>
+			<img src="https://img.shields.io/badge/Zapier-%23FF4A00.svg?style=flat&logo=Zapier&logoColor=white"/>
+        	<img src="https://img.shields.io/badge/Make-%23252159.svg?style=flat&logo=Make&logoColor=white"/>
+        </td>
     </tr>
 </table>
 
@@ -155,7 +169,9 @@ For direct contact, you can reach me out though: <a href="https://www.linkedin.c
 	<br>
 	<br>
 	<br>
-  <br>
+  	<br>
+	<br>
+	<br>
 	<br>
 </p>
 
@@ -167,7 +183,7 @@ For direct contact, you can reach me out though: <a href="https://www.linkedin.c
 
 Graduado en Ingeniería del Software por la Universidad de Sevilla, especializado en arquitectura de software, inteligencia artificial y gestión de proyectos. Con MH en asignaturas clave como Arquitectura e Integración de Sistemas Software, Ingeniería y Gestión de Configuración.
 
-Estoy a punto de comenzar mi trayectoria profesional como Ingeniero de Software en [ORDINALY SOFTWARE](https://ordinaly.netlify.app), una start-up centrada en la automatización y optimización de procesos empresariales mediante Inteligencia Artificial, en colaboración con AVIVA PUBLICIDAD y PROINCA CONSULTORES. Paralelamente, cursaré el Máster en Ingeniería Informática mientras continúo desarrollando mis conocimientos en IA, ciencia de datos y diseño de software.
+Estoy a punto de comenzar mi trayectoria profesional como Ingeniero de Software en [ORDINALY SOFTWARE](https://ordinaly.ai/es), una start-up centrada en la automatización y optimización de procesos empresariales mediante Inteligencia Artificial, en colaboración con AVIVA PUBLICIDAD y PROINCA CONSULTORES. Paralelamente, cursaré el Máster en Ingeniería Informática mientras continúo desarrollando mis conocimientos en IA, ciencia de datos y diseño de software.
 
 Durante mis estudios, adquirí experiencia práctica tanto en proyectos académicos como en la industria. Destaca mi Trabajo de Fin de Grado, que consistió en el diseño e implementación de [MAESTRE](https://github.com/MAESTRE-TFG/maestre), un conjunto de herramientas de IA basado en la web destinado a ayudar a los profesores de secundaria a crear y gestionar contenido educativo. También lideré y coordiné el diseño y desarrollo de [Fisio Find](https://github.com/Proyecto-ISPP/FISIOFIND), una aplicación multiplataforma para fisioterapeutas enfocada en ofrecer un servicio completo (videollamadas, herramientas de programación, pagos y tratamientos).
 
@@ -182,43 +198,56 @@ Fuera del ámbito de la ingeniería, me apasionan la fotografía, la videografí
 <table>
   <tr>
     <td align="center">
+      <a href="https://github.com/ordinaly-software/ordinaly">
+        <img src="./assets/ordinaly.png" alt="Ordinaly" width="300"/>
+      </a>
+      <br/>
+      <a href="https://github.com/ordinaly-software/ordinaly">
+        <img src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/pin/?username=ordinaly-software&repo=ordinaly&theme=dark" />
+      </a>
+    </td>
+    <td align="center">
       <a href="https://github.com/MAESTRE-TFG/maestre">
         <img src="./assets/maestre.png" alt="MAESTRE" width="300"/>
       </a>
       <br/>
       <a href="https://github.com/MAESTRE-TFG/maestre">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MAESTRE-TFG&repo=maestre&theme=dark" />
+        <img src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/pin/?username=MAESTRE-TFG&repo=maestre&theme=dark" />
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/Proyecto-ISPP/FISIOFIND">
         <img src="./assets/fisiofind.png" alt="FisioFind" width="300"/>
       </a>
       <br/>
       <a href="https://github.com/Proyecto-ISPP/FISIOFIND">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Proyecto-ISPP&repo=FISIOFIND&theme=dark" />
+        <img src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/pin/?username=Proyecto-ISPP&repo=FISIOFIND&theme=dark" />
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/antoniommff/an-index-of-ice-and-fire">
         <img src="./assets/an-index-of-ice-and-fire.png" alt="An Index of Ice and Fire" width="300"/>
       </a>
       <br/>
       <a href="https://github.com/antoniommff/an-index-of-ice-and-fire">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniommff&repo=an-index-of-ice-and-fire&theme=dark" />
+        <img src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/pin/?username=antoniommff&repo=an-index-of-ice-and-fire&theme=dark" />
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/Pueblista-PGPI/pueblista-pgpi">
         <img src="./assets/pueblista.png" alt="Pueblista" width="300"/>
       </a>
       <br/>
       <a href="https://github.com/Pueblista-PGPI/pueblista-pgpi">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pueblista-PGPI&repo=pueblista-pgpi&theme=dark" />
+        <img src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/pin/?username=Pueblista-PGPI&repo=pueblista-pgpi&theme=dark" />
       </a>
     </td>
+    <!-- Empty cell -->
+    <td></td>
   </tr>
   <tr>
     <td align="center" colspan="2">
@@ -227,7 +256,7 @@ Fuera del ámbito de la ingeniería, me apasionan la fotografía, la videografí
       </a>
       <br/>
       <a href="https://github.com/antoniommff/the-social-tree">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=antoniommff&repo=the-social-tree&theme=dark" />
+        <img src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/pin/?username=antoniommff&repo=the-social-tree&theme=dark" />
       </a>
     </td>
   </tr>
@@ -253,7 +282,7 @@ Fuera del ámbito de la ingeniería, me apasionan la fotografía, la videografí
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=java,spring,nodejs,django,postman,arduino"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=java,python,spring,nodejs,django,postman,arduino"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend</td>
@@ -264,7 +293,7 @@ Fuera del ámbito de la ingeniería, me apasionan la fotografía, la videografí
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Matemática</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=python,anaconda,matlab,octave,latex,md,r"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=anaconda,matlab,octave,latex,md,r"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Gestión de bases de datos</td>
@@ -273,6 +302,14 @@ Fuera del ámbito de la ingeniería, me apasionan la fotografía, la videografí
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Gestión de versiones y despliegue</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=vscode,eclipse,idea,git,github,bitbucket"/></td>
+    </tr>
+	<tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Automation</td>
+        <td>
+			<img src="https://img.shields.io/badge/n8n-%23EA4E67.svg?style=flat&logo=n8n&logoColor=white"/>
+			<img src="https://img.shields.io/badge/Zapier-%23FF4A00.svg?style=flat&logo=Zapier&logoColor=white"/>
+        	<img src="https://img.shields.io/badge/Make-%23252159.svg?style=flat&logo=Make&logoColor=white"/>
+        </td>
     </tr>
 </table>
 
