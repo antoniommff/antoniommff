@@ -84,10 +84,6 @@ Outside of engineering, I am passionate about photography, videography, and cine
         <img src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/pin/?username=Pueblista-PGPI&repo=pueblista-pgpi&theme=dark" />
       </a>
     </td>
-    <!-- Empty cell -->
-    <td></td>
-  </tr>
-  <tr>
     <td align="center" colspan="2">
       <a href="https://github.com/antoniommff/the-social-tree">
         <img src="./assets/the-social-tree.png" alt="The Social Tree" width="300"/>
@@ -246,10 +242,6 @@ Fuera del ámbito de la ingeniería, me apasionan la fotografía, la videografí
         <img src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/pin/?username=Pueblista-PGPI&repo=pueblista-pgpi&theme=dark" />
       </a>
     </td>
-    <!-- Empty cell -->
-    <td></td>
-  </tr>
-  <tr>
     <td align="center" colspan="2">
       <a href="https://github.com/antoniommff/the-social-tree">
         <img src="./assets/the-social-tree.png" alt="The Social Tree" width="300"/>
