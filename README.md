@@ -17,17 +17,15 @@
 <img src="./assets/banner.png" alt="Banner"/>
 
 <h2 align="left">👨‍💻 | About me</h2>
+I am currently the Chief Software Engineer of [ORDINALY SOFTWARE](https://ordinaly.ai/en), a start-up focused on the automation and optimization of business processes through Artificial Intelligence. At the same time, I study the Master of Logic, Computer Science and Artificial Intelligence at the University of Seville.
 
-Software Engineering graduate from the University of Seville, specialising in software architecture, artificial intelligence, and project management. I hold distinctions in key subjects such as Software Architecture and Integration, Professional Practice Engineering, and Configuration Management.
+Graduated in Software Engineering from the University of Seville, specializing in software architecture, artificial intelligence and agile project management.
 
-I am about to begin my professional journey as a Software Engineer at [ORDINALY SOFTWARE](https://ordinaly.ai/en), a start-up focused on automating and optimising business processes through Artificial Intelligence, in collaboration with AVIVA PUBLICIDAD and PROINCA CONSULTORES. Alongside this, I will pursue the Master’s Degree in Computer Engineering while continuing to develop my expertise in AI, data science, and software design.
+During my studies, I gained practical experience in both academic industry projects. My Bachelor's Thesis stands out, which consisted of the design and implementation of [MAESTRE](https://github.com/MAESTRE-TFG/maestre), a set of web-based AI tools designed to help high school teachers create and manage educational content. I also led and coordinated the design and development of [Fisio Find](https://github.com/Proyecto-ISPP/FISIOFIND), a multiplatform application for physiotherapists focused on offering a complete service (video calls, programming tools, payments and treatments).
 
-During my studies, I gained hands-on experience in both academic and industry projects. Notably, my Bachelor’s Thesis involved the design and implementation of [MAESTRE](https://github.com/MAESTRE-TFG/maestre), a web-based AI toolkit aimed at helping secondary school teachers create and manage educational content. I also led and coordinated the design and development of [Fisio Find](https://github.com/Proyecto-ISPP/FISIOFIND), a multi platform application for physiotherapist focused on giving a complete service (video calls, scheduling tools, payments and treatments).
+My technical skills include backend development (Spring, Django), frontend (NextJS, React), databases (MySQL, PostgreSQL, MariaDB) and AI libraries such as TensorFlow and PyTorch, complemented by experience in Docker, Google Cloud, N8N, Make and agile methodologies (Scrum, PMBOK). I speak Spanish and English fluently (Cambridge C1 - 7.5 IELTS).
 
-My technical skill set spans backend (Spring, Django), frontend (NextJS, React), databases (MySQL, PostgreSQL, MariaDB), and AI frameworks such as TensorFlow and PyTorch, complemented by experience in Docker, Google Cloud, and Agile methodologies (Scrum, PMBOK). I am fluent in Spanish and English (Cambridge C1 - 7.5 IELTS).
-
-Outside of engineering, I am passionate about photography, videography, and cinema. My artistic/ hobby work can be found on my [Personal Page](http://bento.me/antoniommff).
-
+Outside the field of engineering, I have been passionate about photography, videography and cinema since I was a child and more and more every day. You can find more about all this in my [Personal Page](https://linktr.ee/antoniommff).
 
 <br>
 
@@ -152,7 +150,7 @@ Outside of engineering, I am passionate about photography, videography, and cine
 
 <h2 align="left">☎️ | Contact</h2>
 
-[EN] Take a momment to look at my [Personal Page](http://bento.me/antoniommff) to explore my social media, where I usually post more artistic stuff.
+[EN] Take a momment to look at my [Personal Page](https://linktr.ee/antoniommff) to explore my social media, where I usually post more artistic stuff.
 For direct contact, you can reach me out though: <a href="https://www.linkedin.com/in/antoniommff/"><img height="20" src="https://skillicons.dev/icons?i=linkedin"/></a> or <a href="mailto:antoniommff@gmail.com"><img height="20" src="https://skillicons.dev/icons?i=gmail"/></a>
 
 <br>
@@ -175,17 +173,17 @@ For direct contact, you can reach me out though: <a href="https://www.linkedin.c
 
 <img src="./assets/banner.png" alt="Banner"/>
 
-<h2 align="left">👨‍💻 | Sobre mi</h2
+<h2 align="left">👨‍💻 | Sobre mi</h2>
 
-Graduado en Ingeniería del Software por la Universidad de Sevilla, especializado en arquitectura de software, inteligencia artificial y gestión de proyectos. Con MH en asignaturas clave como Arquitectura e Integración de Sistemas Software, Ingeniería y Gestión de Configuración.
+Actualmente soy el Ingeniero de Software jefe de [ORDINALY SOFTWARE](https://ordinaly.ai/es), una start-up centrada en la automatización y optimización de procesos empresariales mediante Inteligencia Artificial. Paralelamente, curso el Máster de Lógica, Ciencias de la Computación e Inteligencia Artificial en la Universidad de Sevilla.
 
-Estoy a punto de comenzar mi trayectoria profesional como Ingeniero de Software en [ORDINALY SOFTWARE](https://ordinaly.ai/es), una start-up centrada en la automatización y optimización de procesos empresariales mediante Inteligencia Artificial, en colaboración con AVIVA PUBLICIDAD y PROINCA CONSULTORES. Paralelamente, cursaré el Máster en Ingeniería Informática mientras continúo desarrollando mis conocimientos en IA, ciencia de datos y diseño de software.
+Graduado en Ingeniería del Software por la Universidad de Sevilla, especializado en arquitectura de software, inteligencia artificial y gestión de proyectos "agile".
 
-Durante mis estudios, adquirí experiencia práctica tanto en proyectos académicos como en la industria. Destaca mi Trabajo de Fin de Grado, que consistió en el diseño e implementación de [MAESTRE](https://github.com/MAESTRE-TFG/maestre), un conjunto de herramientas de IA basado en la web destinado a ayudar a los profesores de secundaria a crear y gestionar contenido educativo. También lideré y coordiné el diseño y desarrollo de [Fisio Find](https://github.com/Proyecto-ISPP/FISIOFIND), una aplicación multiplataforma para fisioterapeutas enfocada en ofrecer un servicio completo (videollamadas, herramientas de programación, pagos y tratamientos).
+Durante mis estudios, adquirí experiencia práctica tanto en proyectos académicos como en la industria. Destaca mi Trabajo de Fin de Grado, que consistió en el diseño e implementación de [MAESTRE](https://github.com/MAESTRE-TFG/maestre), un conjunto de herramientas de IA basado en la web destinado a ayudar a los profesores de instituto a crear y gestionar contenido educativo. También lideré y coordiné el diseño y desarrollo de [Fisio Find](https://github.com/Proyecto-ISPP/FISIOFIND), una aplicación multiplataforma para fisioterapeutas enfocada en ofrecer un servicio completo (videollamadas, herramientas de programación, pagos y tratamientos).
 
-Mi conjunto de habilidades técnicas abarca el desarrollo backend (Spring, Django), frontend (NextJS, React), bases de datos (MySQL, PostgreSQL, MariaDB) y frameworks de IA como TensorFlow y PyTorch, complementado con experiencia en Docker, Google Cloud y metodologías ágiles (Scrum, PMBOK). Hablo español e inglés con fluidez (Cambridge C1 - 7.5 IELTS).
+Mi conjunto de habilidades técnicas abarca el desarrollo backend (Spring, Django), frontend (NextJS, React), bases de datos (MySQL, PostgreSQL, MariaDB) y librerías de IA como TensorFlow y PyTorch, complementado con experiencia en Docker, Google Cloud, N8N, Make y metodologías ágiles (Scrum, PMBOK). Hablo español e inglés con fluidez (Cambridge C1 - 7.5 IELTS).
 
-Fuera del ámbito de la ingeniería, me apasionan la fotografía, la videografía y el cine. Mi trabajo artístico y de afición se puede encontrar en mi página personal [Página Personal](http://bento.me/antoniommff).
+Fuera del ámbito de la ingeniería, me apasionan la fotografía, la videografía y el cine desde pequeño y cada día más. Puedes encontrar más sobre todo esto el el enlace de arriba de mi perfil [Página Personal](https://linktr.ee/antoniommff).
 
 <br>
 
@@ -311,7 +309,7 @@ Fuera del ámbito de la ingeniería, me apasionan la fotografía, la videografí
 
 <h2 align="left">☎️ | Contacto</h2>
 
-Tómate un momento para echar un vistazo a mi [Página personal](http://bento.me/antoniommff) para explorar mis redes sociales, donde normalmente publico cosas más artísticas.
+Tómate un momento para echar un vistazo a mi [Página personal](https://linktr.ee/antoniommff) para explorar mis redes sociales, donde normalmente publico cosas más artísticas.
 Para un contactarme directamente:  <a href="https://www.linkedin.com/in/antoniommff/"><img height="20" src="https://skillicons.dev/icons?i=linkedin"/></a> o <a href="mailto:antoniommff@gmail.com"><img height="20" src="https://skillicons.dev/icons?i=gmail"/></a>
 
 ---
