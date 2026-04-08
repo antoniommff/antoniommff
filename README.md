@@ -17,7 +17,7 @@
 <img src="./assets/banner.png" alt="Banner"/>
 
 <h2 align="left">👨‍💻 | About me</h2>
-I am currently the Chief Software Engineer of [ORDINALY SOFTWARE](https://ordinaly.ai/en), a start-up focused on the automation and optimization of business processes through Artificial Intelligence. At the same time, I study the Master of Logic, Computer Science and Artificial Intelligence at the University of Seville.
+I am currently the CTO - Software Engineer of [ORDINALY SOFTWARE](https://ordinaly.ai/en), a start-up focused on the automation and optimization of business processes through Artificial Intelligence. At the same time, I study the Master of Logic, Computer Science and Artificial Intelligence at the University of Seville.
 
 Graduated in Software Engineering from the University of Seville, specializing in software architecture, artificial intelligence and agile project management.
 
@@ -33,63 +33,74 @@ Outside the field of engineering, I have been passionate about photography, vide
 
 <table>
   <tr>
-    <td align="center">
-      <a href="https://github.com/ordinaly-software/ordinaly">
-        <img src="./assets/ordinaly.png" alt="Ordinaly" width="300"/>
-      </a>
-      <br/>
-      <a href="https://github.com/ordinaly-software/ordinaly">
-        <img src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/pin/?username=ordinaly-software&repo=ordinaly&theme=dark" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/MAESTRE-TFG/maestre">
-        <img src="./assets/maestre.png" alt="MAESTRE" width="300"/>
-      </a>
-      <br/>
-      <a href="https://github.com/MAESTRE-TFG/maestre">
-        <img src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/pin/?username=MAESTRE-TFG&repo=maestre&theme=dark" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Proyecto-ISPP/FISIOFIND">
-        <img src="./assets/fisiofind.png" alt="FisioFind" width="300"/>
-      </a>
-      <br/>
-      <a href="https://github.com/Proyecto-ISPP/FISIOFIND">
-        <img src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/pin/?username=Proyecto-ISPP&repo=FISIOFIND&theme=dark" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/antoniommff/an-index-of-ice-and-fire">
-        <img src="./assets/an-index-of-ice-and-fire.png" alt="An Index of Ice and Fire" width="300"/>
-      </a>
-      <br/>
-      <a href="https://github.com/antoniommff/an-index-of-ice-and-fire">
-        <img src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/pin/?username=antoniommff&repo=an-index-of-ice-and-fire&theme=dark" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Pueblista-PGPI/pueblista-pgpi">
-        <img src="./assets/pueblista.png" alt="Pueblista" width="300"/>
-      </a>
-      <br/>
-      <a href="https://github.com/Pueblista-PGPI/pueblista-pgpi">
-        <img src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/pin/?username=Pueblista-PGPI&repo=pueblista-pgpi&theme=dark" />
-      </a>
-    </td>
     <td align="center" colspan="2">
-      <a href="https://github.com/antoniommff/the-social-tree">
-        <img src="./assets/the-social-tree.png" alt="The Social Tree" width="300"/>
+      <a href="https://github.com/antoniommff/tmf_antmacfer1">
+        <img src="./assets/tfm.png" width="300"/>
       </a>
       <br/>
-      <a href="https://github.com/antoniommff/the-social-tree">
-        <img src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/pin/?username=antoniommff&repo=the-social-tree&theme=dark" />
+      <b>TFM</b>
+      <br/>
+      <sub>AI-based system for educational content generation</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ordinaly-software/ordinaly">
+        <img src="./assets/ordinaly.png" width="300"/>
       </a>
+      <br/>
+      <b>Ordinaly</b>
+      <br/>
+      <sub>AI platform for business process automation</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/MAESTRE-TFG/maestre">
+        <img src="./assets/maestre.png" width="300"/>
+      </a>
+      <br/>
+      <b>MAESTRE</b>
+      <br/>
+      <sub>AI tools for teachers to create and manage content</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Proyecto-ISPP/FISIOFIND">
+        <img src="./assets/fisiofind.png" width="300"/>
+      </a>
+      <br/>
+      <b>FisioFind</b>
+      <br/>
+      <sub>Platform for physiotherapists with full service</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/antoniommff/an-index-of-ice-and-fire">
+        <img src="./assets/an-index-of-ice-and-fire.png" width="300"/>
+      </a>
+      <br/>
+      <b>An Index of Ice and Fire</b>
+      <br/>
+      <sub>API and data explorer for Game of Thrones universe</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Pueblista-PGPI/pueblista-pgpi">
+        <img src="./assets/pueblista.png" width="300"/>
+      </a>
+      <br/>
+      <b>Pueblista</b>
+      <br/>
+      <sub>Platform for rural development and local services</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/antoniommff/the-social-tree">
+        <img src="./assets/the-social-tree.png" width="300"/>
+      </a>
+      <br/>
+      <b>The Social Tree</b>
+      <br/>
+      <sub>Social network analysis platform</sub>
     </td>
   </tr>
 </table>
@@ -175,7 +186,7 @@ For direct contact, you can reach me out though: <a href="https://www.linkedin.c
 
 <h2 align="left">👨‍💻 | Sobre mi</h2>
 
-Actualmente soy el Ingeniero de Software jefe de [ORDINALY SOFTWARE](https://ordinaly.ai/es), una start-up centrada en la automatización y optimización de procesos empresariales mediante Inteligencia Artificial. Paralelamente, curso el Máster de Lógica, Ciencias de la Computación e Inteligencia Artificial en la Universidad de Sevilla.
+Actualmente soy el Ingeniero de Software/CTO de [ORDINALY SOFTWARE](https://ordinaly.ai) , una start-up centrada en la automatización y optimización de procesos empresariales mediante Inteligencia Artificial. Paralelamente, curso el Máster de Lógica, Ciencias de la Computación e Inteligencia Artificial en la Universidad de Sevilla.
 
 Graduado en Ingeniería del Software por la Universidad de Sevilla, especializado en arquitectura de software, inteligencia artificial y gestión de proyectos "agile".
 
@@ -186,68 +197,78 @@ Mi conjunto de habilidades técnicas abarca el desarrollo backend (Spring, Djang
 Fuera del ámbito de la ingeniería, me apasionan la fotografía, la videografía y el cine desde pequeño y cada día más. Puedes encontrar más sobre todo esto el el enlace de arriba de mi perfil [Página Personal](https://linktr.ee/antoniommff).
 
 <br>
-
 <h2 align="left">📑 | Últimos proyectos</h2>
 
 <table>
   <tr>
-    <td align="center">
-      <a href="https://github.com/ordinaly-software/ordinaly">
-        <img src="./assets/ordinaly.png" alt="Ordinaly" width="300"/>
-      </a>
-      <br/>
-      <a href="https://github.com/ordinaly-software/ordinaly">
-        <img src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/pin/?username=ordinaly-software&repo=ordinaly&theme=dark" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/MAESTRE-TFG/maestre">
-        <img src="./assets/maestre.png" alt="MAESTRE" width="300"/>
-      </a>
-      <br/>
-      <a href="https://github.com/MAESTRE-TFG/maestre">
-        <img src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/pin/?username=MAESTRE-TFG&repo=maestre&theme=dark" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Proyecto-ISPP/FISIOFIND">
-        <img src="./assets/fisiofind.png" alt="FisioFind" width="300"/>
-      </a>
-      <br/>
-      <a href="https://github.com/Proyecto-ISPP/FISIOFIND">
-        <img src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/pin/?username=Proyecto-ISPP&repo=FISIOFIND&theme=dark" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/antoniommff/an-index-of-ice-and-fire">
-        <img src="./assets/an-index-of-ice-and-fire.png" alt="An Index of Ice and Fire" width="300"/>
-      </a>
-      <br/>
-      <a href="https://github.com/antoniommff/an-index-of-ice-and-fire">
-        <img src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/pin/?username=antoniommff&repo=an-index-of-ice-and-fire&theme=dark" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Pueblista-PGPI/pueblista-pgpi">
-        <img src="./assets/pueblista.png" alt="Pueblista" width="300"/>
-      </a>
-      <br/>
-      <a href="https://github.com/Pueblista-PGPI/pueblista-pgpi">
-        <img src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/pin/?username=Pueblista-PGPI&repo=pueblista-pgpi&theme=dark" />
-      </a>
-    </td>
     <td align="center" colspan="2">
-      <a href="https://github.com/antoniommff/the-social-tree">
-        <img src="./assets/the-social-tree.png" alt="The Social Tree" width="300"/>
+      <a href="https://github.com/antoniommff/tmf_antmacfer1">
+        <img src="./assets/tfm.png" width="300"/>
       </a>
       <br/>
-      <a href="https://github.com/antoniommff/the-social-tree">
-        <img src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/pin/?username=antoniommff&repo=the-social-tree&theme=dark" />
+      <b>TFM</b>
+      <br/>
+      <sub>Sistema basado en IA para generación de contenido educativo</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ordinaly-software/ordinaly">
+        <img src="./assets/ordinaly.png" width="300"/>
       </a>
+      <br/>
+      <b>Ordinaly</b>
+      <br/>
+      <sub>Plataforma de automatización de procesos con IA</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/MAESTRE-TFG/maestre">
+        <img src="./assets/maestre.png" width="300"/>
+      </a>
+      <br/>
+      <b>MAESTRE</b>
+      <br/>
+      <sub>Herramientas de IA para docentes</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Proyecto-ISPP/FISIOFIND">
+        <img src="./assets/fisiofind.png" width="300"/>
+      </a>
+      <br/>
+      <b>FisioFind</b>
+      <br/>
+      <sub>Plataforma integral para fisioterapeutas</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/antoniommff/an-index-of-ice-and-fire">
+        <img src="./assets/an-index-of-ice-and-fire.png" width="300"/>
+      </a>
+      <br/>
+      <b>An Index of Ice and Fire</b>
+      <br/>
+      <sub>API y explorador de datos de Game of Thrones</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Pueblista-PGPI/pueblista-pgpi">
+        <img src="./assets/pueblista.png" width="300"/>
+      </a>
+      <br/>
+      <b>Pueblista</b>
+      <br/>
+      <sub>Plataforma para desarrollo rural</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/antoniommff/the-social-tree">
+        <img src="./assets/the-social-tree.png" width="300"/>
+      </a>
+      <br/>
+      <b>The Social Tree</b>
+      <br/>
+      <sub>Plataforma de análisis de redes sociales</sub>
     </td>
   </tr>
 </table>
