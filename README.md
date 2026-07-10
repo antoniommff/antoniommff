@@ -17,11 +17,11 @@
 <img src="./assets/banner.png" alt="Banner"/>
 
 <h2 align="left">👨‍💻 | About me</h2>
-I am currently the CTO - Software Engineer of [ORDINALY SOFTWARE](https://ordinaly.ai/en), a start-up focused on the automation and optimization of business processes through Artificial Intelligence. At the same time, I study the Master of Logic, Computer Science and Artificial Intelligence at the University of Seville.
+I am currently the Chief Software Engineer at [ORDINALY SOFTWARE](https://ordinaly.ai/) , a start-up focused on the automation and optimization of business processes through Artificial Intelligence.
 
-Graduated in Software Engineering from the University of Seville, specializing in software architecture, artificial intelligence and agile project management.
+Graduated in Software Engineering from the University of Seville, specializing in software architecture, artificial intelligence and agile project management, and holder of a Master's Degree in Logic, Computer Science and Artificial Intelligence from the same university.
 
-During my studies, I gained practical experience in both academic industry projects. My Bachelor's Thesis stands out, which consisted of the design and implementation of [MAESTRE](https://github.com/MAESTRE-TFG/maestre), a set of web-based AI tools designed to help high school teachers create and manage educational content. I also led and coordinated the design and development of [Fisio Find](https://github.com/Proyecto-ISPP/FISIOFIND), a multiplatform application for physiotherapists focused on offering a complete service (video calls, programming tools, payments and treatments).
+During my studies, I gained practical experience in both academic and industry projects. My Master's Thesis explored Echo State Networks and different graph topologies, combining real and synthetic data to optimize network architecture for specific tasks. My Bachelor's Thesis consisted of the design and implementation of [MAESTRE](https://github.com/MAESTRE-TFG/maestre), a progressive web app implementing AI tools designed to help high school teachers create and manage educational content. I also led and coordinated the design and development of [Fisio Find](https://github.com/Proyecto-ISPP/FISIOFIND), a multiplatform application for physiotherapists focused on offering a complete service (video calls, scheduling tools, payments and treatments).
 
 My technical skills include backend development (Spring, Django), frontend (NextJS, React), databases (MySQL, PostgreSQL, MariaDB) and AI libraries such as TensorFlow and PyTorch, complemented by experience in Docker, Google Cloud, N8N, Make and agile methodologies (Scrum, PMBOK). I speak Spanish and English fluently (Cambridge C1 - 7.5 IELTS).
 
@@ -40,7 +40,7 @@ Outside the field of engineering, I have been passionate about photography, vide
       <br/>
       <b>TFM</b>
       <br/>
-      <sub>AI-based system for educational content generation</sub>
+      <sub>Echo State Networks & graph topology optimization</sub>
     </td>
   </tr>
   <tr>
@@ -120,6 +120,7 @@ Outside the field of engineering, I have been passionate about photography, vide
           <img src="https://img.shields.io/badge/scikit_learn-%23150458.svg?style=flat&logo=scikit-learn&logoColor=white">
           <img src="https://img.shields.io/badge/pytorch-150458.svg?style=flat&logo=pytorch&logoColor=white">
           <img src="https://img.shields.io/badge/yolo-150458.svg?style=flat&logo=yolo&logoColor=white">
+          <img src="https://img.shields.io/badge/networkx-%23282828.svg?style=flat&logo=python&logoColor=white">
       </td>
     </tr>
     <tr>
@@ -186,11 +187,11 @@ For direct contact, you can reach me out though: <a href="https://www.linkedin.c
 
 <h2 align="left">👨‍💻 | Sobre mi</h2>
 
-Actualmente soy el Ingeniero de Software/CTO de [ORDINALY SOFTWARE](https://ordinaly.ai) , una start-up centrada en la automatización y optimización de procesos empresariales mediante Inteligencia Artificial. Paralelamente, curso el Máster de Lógica, Ciencias de la Computación e Inteligencia Artificial en la Universidad de Sevilla.
+Actualmente soy el Ingeniero de Software jefe de [ORDINALY SOFTWARE](https://ordinaly.ai), una start-up centrada en la automatización y optimización de procesos empresariales mediante Inteligencia Artificial.
 
-Graduado en Ingeniería del Software por la Universidad de Sevilla, especializado en arquitectura de software, inteligencia artificial y gestión de proyectos "agile".
+Graduado en Ingeniería del Software por la Universidad de Sevilla, especializado en arquitectura de software, inteligencia artificial y gestión de proyectos "agile", y con Máster Universitario en Lógica, Ciencias de la Computación e Inteligencia Artificial por la misma universidad.
 
-Durante mis estudios, adquirí experiencia práctica tanto en proyectos académicos como en la industria. Destaca mi Trabajo de Fin de Grado, que consistió en el diseño e implementación de [MAESTRE](https://github.com/MAESTRE-TFG/maestre), un conjunto de herramientas de IA basado en la web destinado a ayudar a los profesores de instituto a crear y gestionar contenido educativo. También lideré y coordiné el diseño y desarrollo de [Fisio Find](https://github.com/Proyecto-ISPP/FISIOFIND), una aplicación multiplataforma para fisioterapeutas enfocada en ofrecer un servicio completo (videollamadas, herramientas de programación, pagos y tratamientos).
+Durante mis estudios, adquirí experiencia práctica tanto en proyectos académicos como industriales. Mi Trabajo de Fin de Máster consistió en una experimentación tanto real como sintética con Redes Neuronales de Estado de Eco (Echo State Networks) y distintas topologías de grafos, con el objetivo de optimizar la arquitectura de la red en tareas específicas. Mi Trabajo de Fin de Grado consistió en el diseño e implementación de [MAESTRE](https://github.com/MAESTRE-TFG/maestre), una aplicación web progresiva que implementaba herramientas de IA destinadas a ayudar a los profesores de instituto a crear y gestionar contenido educativo. También lideré y coordiné el diseño y desarrollo de [Fisio Find](https://github.com/Proyecto-ISPP/FISIOFIND), una aplicación multiplataforma para fisioterapeutas enfocada en ofrecer un servicio completo (videollamadas, herramientas de programación, pagos y tratamientos).
 
 Mi conjunto de habilidades técnicas abarca el desarrollo backend (Spring, Django), frontend (NextJS, React), bases de datos (MySQL, PostgreSQL, MariaDB) y librerías de IA como TensorFlow y PyTorch, complementado con experiencia en Docker, Google Cloud, N8N, Make y metodologías ágiles (Scrum, PMBOK). Hablo español e inglés con fluidez (Cambridge C1 - 7.5 IELTS).
 
@@ -208,7 +209,7 @@ Fuera del ámbito de la ingeniería, me apasionan la fotografía, la videografí
       <br/>
       <b>TFM</b>
       <br/>
-      <sub>Sistema basado en IA para generación de contenido educativo</sub>
+      <sub>Redes de Estado de Eco y optimización de topologías de grafos</sub>
     </td>
   </tr>
   <tr>
@@ -289,6 +290,7 @@ Fuera del ámbito de la ingeniería, me apasionan la fotografía, la videografí
           <img src="https://img.shields.io/badge/scikit_learn-%23150458.svg?style=flat&logo=scikit-learn&logoColor=white">
           <img src="https://img.shields.io/badge/pytorch-150458.svg?style=flat&logo=pytorch&logoColor=white">
           <img src="https://img.shields.io/badge/yolo-150458.svg?style=flat&logo=yolo&logoColor=white">
+          <img src="https://img.shields.io/badge/networkx-%23282828.svg?style=flat&logo=python&logoColor=white">
       </td>
     </tr>
     <tr>
