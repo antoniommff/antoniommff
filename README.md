@@ -14,7 +14,7 @@
 
 <div id="english">
 
-<img src="./assets/banner.png" alt="Banner"/>
+<img src="./assets/banner.png" alt="Banner antoniommff"/>
 
 <h2 align="left">👨‍💻 | About me</h2>
 I am currently the Chief Software Engineer at [ORDINALY SOFTWARE](https://ordinaly.ai/) , a start-up focused on the automation and optimization of business processes through Artificial Intelligence.
@@ -183,7 +183,7 @@ For direct contact, you can reach me out though: <a href="https://www.linkedin.c
 
 <div id="español">
 
-<img src="./assets/banner.png" alt="Banner"/>
+<img src="./assets/banner.png" alt="Banner antoniommff"/>
 
 <h2 align="left">👨‍💻 | Sobre mi</h2>
 
