@@ -34,7 +34,7 @@ Outside the field of engineering, I have been passionate about photography, vide
 <table>
   <tr>
     <td align="center" colspan="2">
-      <a href="https://github.com/antoniommff/tmf_antmacfer1">
+      <a href="https://github.com/antoniommff/tfm_antmacfer1">
         <img src="./assets/tfm.png" width="300"/>
       </a>
       <br/>
@@ -206,7 +206,7 @@ Fuera del ámbito de la ingeniería, me apasionan la fotografía, la videografí
 <table>
   <tr>
     <td align="center" colspan="2">
-      <a href="https://github.com/antoniommff/tmf_antmacfer1">
+      <a href="https://github.com/antoniommff/tfm_antmacfer1">
         <img src="./assets/tfm.png" width="300"/>
       </a>
       <br/>
