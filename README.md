@@ -17,7 +17,7 @@
 <img src="./assets/banner.png" alt="Banner antoniommff"/>
 
 <h2 align="left">👨‍💻 | About me</h2>
-I am currently the Chief Software Engineer at [ORDINALY SOFTWARE](https://ordinaly.ai/) , a start-up focused on the automation and optimization of business processes through Artificial Intelligence.
+I am currently the Chief Software Engineer at [ORDINALY SOFTWARE](https://ordinaly.ai), a start-up focused on the automation and optimization of business processes through Artificial Intelligence.
 
 Graduated in Software Engineering from the University of Seville, specializing in software architecture, artificial intelligence and agile project management, and holder of a Master's Degree in Logic, Computer Science and Artificial Intelligence from the same university.
 
@@ -121,6 +121,9 @@ Outside the field of engineering, I have been passionate about photography, vide
           <img src="https://img.shields.io/badge/pytorch-150458.svg?style=flat&logo=pytorch&logoColor=white">
           <img src="https://img.shields.io/badge/yolo-150458.svg?style=flat&logo=yolo&logoColor=white">
           <img src="https://img.shields.io/badge/networkx-%23282828.svg?style=flat&logo=python&logoColor=white">
+          <img src="https://img.shields.io/badge/ReservoirPy-%23150458.svg?style=flat&logo=python&logoColor=white">
+          <img src="https://img.shields.io/badge/CuPy-%23000000.svg?style=flat&logo=numpy&logoColor=white">
+          <img src="https://img.shields.io/badge/CUDA-%2376B900.svg?style=flat&logo=nvidia&logoColor=white">
       </td>
     </tr>
     <tr>
@@ -144,7 +147,7 @@ Outside the field of engineering, I have been passionate about photography, vide
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Versioning and deployment</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,eclipse,idea,git,github,bitbucket"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,eclipse,idea,git,github,bitbucket,docker"/></td>
     </tr>
 	 <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Automation</td>
@@ -162,8 +165,8 @@ Outside the field of engineering, I have been passionate about photography, vide
 
 <h2 align="left">☎️ | Contact</h2>
 
-[EN] Take a momment to look at my [Personal Page](https://linktr.ee/antoniommff) to explore my social media, where I usually post more artistic stuff.
-For direct contact, you can reach me out though: <a href="https://www.linkedin.com/in/antoniommff/"><img height="20" src="https://skillicons.dev/icons?i=linkedin"/></a> or <a href="mailto:antoniommff@gmail.com"><img height="20" src="https://skillicons.dev/icons?i=gmail"/></a>
+[EN] Take a moment to look at my [Personal Page](https://linktr.ee/antoniommff) to explore my social media, where I usually post more artistic stuff.
+You can reach out to me through: <a href="https://www.linkedin.com/in/antoniommff/"><img height="20" src="https://skillicons.dev/icons?i=linkedin"/></a> or <a href="mailto:antoniommff@gmail.com"><img height="20" src="https://skillicons.dev/icons?i=gmail"/></a>
 
 <br>
 
@@ -187,7 +190,7 @@ For direct contact, you can reach me out though: <a href="https://www.linkedin.c
 
 <h2 align="left">👨‍💻 | Sobre mi</h2>
 
-Actualmente soy el Ingeniero de Software jefe de [ORDINALY SOFTWARE](https://ordinaly.ai), una start-up centrada en la automatización y optimización de procesos empresariales mediante Inteligencia Artificial.
+Actualmente soy el Ingeniero de Software en [ORDINALY SOFTWARE](https://ordinaly.ai), una start-up centrada en la automatización y optimización de procesos empresariales mediante Inteligencia Artificial.
 
 Graduado en Ingeniería del Software por la Universidad de Sevilla, especializado en arquitectura de software, inteligencia artificial y gestión de proyectos "agile", y con Máster Universitario en Lógica, Ciencias de la Computación e Inteligencia Artificial por la misma universidad.
 
@@ -195,7 +198,7 @@ Durante mis estudios, adquirí experiencia práctica tanto en proyectos académi
 
 Mi conjunto de habilidades técnicas abarca el desarrollo backend (Spring, Django), frontend (NextJS, React), bases de datos (MySQL, PostgreSQL, MariaDB) y librerías de IA como TensorFlow y PyTorch, complementado con experiencia en Docker, Google Cloud, N8N, Make y metodologías ágiles (Scrum, PMBOK). Hablo español e inglés con fluidez (Cambridge C1 - 7.5 IELTS).
 
-Fuera del ámbito de la ingeniería, me apasionan la fotografía, la videografía y el cine desde pequeño y cada día más. Puedes encontrar más sobre todo esto el el enlace de arriba de mi perfil [Página Personal](https://linktr.ee/antoniommff).
+Fuera del ámbito de la ingeniería, me apasionan la fotografía, la videografía y el cine desde pequeño y cada día más. Puedes encontrar más sobre todo esto en el enlace de arriba de mi perfil [Página Personal](https://linktr.ee/antoniommff).
 
 <br>
 <h2 align="left">📑 | Últimos proyectos</h2>
@@ -291,6 +294,9 @@ Fuera del ámbito de la ingeniería, me apasionan la fotografía, la videografí
           <img src="https://img.shields.io/badge/pytorch-150458.svg?style=flat&logo=pytorch&logoColor=white">
           <img src="https://img.shields.io/badge/yolo-150458.svg?style=flat&logo=yolo&logoColor=white">
           <img src="https://img.shields.io/badge/networkx-%23282828.svg?style=flat&logo=python&logoColor=white">
+          <img src="https://img.shields.io/badge/ReservoirPy-%23150458.svg?style=flat&logo=python&logoColor=white">
+          <img src="https://img.shields.io/badge/CuPy-%23000000.svg?style=flat&logo=numpy&logoColor=white">
+          <img src="https://img.shields.io/badge/CUDA-%2376B900.svg?style=flat&logo=nvidia&logoColor=white">
       </td>
     </tr>
     <tr>
@@ -314,7 +320,7 @@ Fuera del ámbito de la ingeniería, me apasionan la fotografía, la videografí
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Gestión de versiones y despliegue</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,eclipse,idea,git,github,bitbucket"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,eclipse,idea,git,github,bitbucket,docker"/></td>
     </tr>
 	<tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Automation</td>
@@ -333,7 +339,6 @@ Fuera del ámbito de la ingeniería, me apasionan la fotografía, la videografí
 <h2 align="left">☎️ | Contacto</h2>
 
 Tómate un momento para echar un vistazo a mi [Página personal](https://linktr.ee/antoniommff) para explorar mis redes sociales, donde normalmente publico cosas más artísticas.
-Para un contactarme directamente:  <a href="https://www.linkedin.com/in/antoniommff/"><img height="20" src="https://skillicons.dev/icons?i=linkedin"/></a> o <a href="mailto:antoniommff@gmail.com"><img height="20" src="https://skillicons.dev/icons?i=gmail"/></a>
+Para contactarme directamente:  <a href="https://www.linkedin.com/in/antoniommff/"><img height="20" src="https://skillicons.dev/icons?i=linkedin"/></a> o <a href="mailto:antoniommff@gmail.com"><img height="20" src="https://skillicons.dev/icons?i=gmail"/></a>
 
 ---
-
